@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+	<id>user_shib</id>
+	<name>Shibboleth Authentication</name>
+	<description>Provides user authentication using Shibboleth SP via e.g mod_shib</description>
+	<licence>AGPL</licence>
+	<author>EUDAT</author>
+	<require>8.0</require>
+	<version>0.1.0</version>
+	<types>
+		<prelogin/>
+		<authentication/>
+	</types>
+</info>
